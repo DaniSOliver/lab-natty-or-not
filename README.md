@@ -21,22 +21,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+FUNCEF e o futuro do seu relacionamento com a patrocinadora
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo de 1 minuto apresenta uma visão rápida e envolvente sobre a importância da FUNCEF e seu relacionamento com a patrocinadora para o empregado CAIXA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
+- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://studio.d-id.com/share?id=7f82f876bdc68edf034d8d7613f6a9f1&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi frustrante```
 
 ### Exemplos e Insigths
 
